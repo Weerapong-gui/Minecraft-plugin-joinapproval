@@ -1,0 +1,5 @@
+# Players allowed to approve join requests by typing Y or N in chat.
+# .verpong321 is the same person playing from Bedrock (Floodgate adds the dot).
+approvers:
+  - Verpong321
+  - .verpong321

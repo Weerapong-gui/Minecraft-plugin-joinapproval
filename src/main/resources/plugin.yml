@@ -1,0 +1,5 @@
+name: JoinApproval
+version: 1.0.0
+main: th.park.joinapproval.JoinApproval
+api-version: '26.3'
+description: Ask approvers in chat (Y/N) before whitelisting new players
